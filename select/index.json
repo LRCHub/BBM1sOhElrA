@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "廃墟の国のアリス／まふまふ feat. 初音ミク",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-15T01:40:46.037585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "廃墟の国のアリス",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_廃墟の国のアリス_Mafumafu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "廃墟の国のアリス",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_廃墟の国のアリス_まふまふ.txt"
+    }
+  ]
+}
